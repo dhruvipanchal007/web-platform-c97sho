@@ -25,5 +25,5 @@ function division(a,b){
 // let c=Number(prompt('enter value c'));
 // let d=Number(prompt('enter value d'));
 // let e=Number(prompt('enter value e'));
-let ans=division(a,b)
-// console.log(ans);
+let ans=division(a,b);
+console.log(ans);
