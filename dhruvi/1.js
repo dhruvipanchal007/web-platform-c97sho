@@ -20,8 +20,8 @@ function division(a,b){
   let i=(a/b);
   return i;
 }
-// let a=Number(prompt('enter value a'));
-// let b=Number(prompt('enter value b'));
+let a=Number(prompt('enter value a'));
+let b=Number(prompt('enter value b'));
 // let c=Number(prompt('enter value c'));
 // let d=Number(prompt('enter value d'));
 // let e=Number(prompt('enter value e'));
